@@ -1,0 +1,28 @@
+.main-div {
+  width: 90%;
+  font-family: "Oswald", sans-serif;
+  border: 3px solid #ed0e25;
+  border-radius: 5px;
+  box-sizing: border-box;
+  margin: 0 auto;
+}
+
+.submit {
+  /* width: 120px; */
+  height: 34px;
+  background-color: #0e49ed;
+  color: white;
+  border-radius: 5px;
+  box-sizing: border-box;
+  font-size: 16px;
+  font-weight: bold;
+  margin: 14px;
+  padding: 2px 8px;
+}
+
+.options {
+  padding: 15px;
+  margin: 0 0 10px 5px;
+  font-size: 12px;
+  cursor: pointer;
+}

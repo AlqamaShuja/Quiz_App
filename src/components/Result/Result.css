@@ -1,0 +1,33 @@
+.Result {
+  text-align: center;
+}
+
+.submit {
+  /* width: 120px; */
+  height: 44px;
+  background-color: #0e49ed;
+  color: white;
+  border-radius: 3px;
+  box-sizing: border-box;
+  font-size: 20px;
+  font-weight: bold;
+  margin: 14px;
+  padding: 2px 8px;
+  text-decoration: none;
+  padding: 5px;
+}
+
+.score {
+  background: #f20c32;
+  color: white;
+  font-size: 24px;
+  padding: 6px 8px;
+  margin: 15px 2px;
+  width: 30%;
+  text-align: center;
+  vertical-align: auto;
+  position: relative;
+  border-radius: 4px;
+  left: 34%;
+  box-shadow: 3px 3px 2px 2px #6b6868;
+}
